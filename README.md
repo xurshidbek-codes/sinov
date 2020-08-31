@@ -1,0 +1,2 @@
+# sinov
+sinov uchun
